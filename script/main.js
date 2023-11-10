@@ -62,7 +62,7 @@ const animationTimeline = () => {
       opacity: 0,
       y: 10
     })
-    .from(".two", 0.4, {
+    .from(".two", 1.4, {
       opacity: 0,
       y: 10
     })
@@ -77,7 +77,7 @@ const animationTimeline = () => {
     )
     .to(
       ".two",
-      0.7,
+      1.7,
       {
         opacity: 0,
         y: 10
